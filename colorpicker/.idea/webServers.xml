@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="47a39d61-5534-46d7-8813-c26667c463d3" name="colorpicker" url="https://bootcamp-coders.cnm.edu/~mschmitt5/colorpicker/">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" privateKey="C:\Users\schmi\Desktop\bootcamp\ssh-key.openssh" rootFolder="/home/mschmitt5/public_html/colorpicker/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
